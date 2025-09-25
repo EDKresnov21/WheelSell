@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jxFMOzoYZOz0Bn1gypSrdw78gjN+Kf2W+EVbDEL02Z0=",
+  "Source": "WheelSellTA.API",
+  "BasePath": "_content/WheelSellTA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
