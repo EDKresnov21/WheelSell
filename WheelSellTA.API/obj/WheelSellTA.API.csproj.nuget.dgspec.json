@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\WheelSellTA.API.csproj": {}
+    "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\WheelSellTA.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\WheelSellTA.API.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\WheelSellTA.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\WheelSellTA.API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\WheelSellTA.API.csproj",
         "projectName": "WheelSellTA.API",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\WheelSellTA.API.csproj",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\WheelSellTA.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj": {
-                "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj"
+              "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
         "projectName": "WheelSellTA.BLL",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -147,8 +147,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj": {
-                "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj"
+              "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj": {
+                "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj"
               }
             }
           }
@@ -197,14 +197,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
         "projectName": "WheelSellTA.DAL",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -22,6 +22,7 @@ namespace WheelSellTA.BLL.Services
             _configuration = configuration;
             _mapper = mapper;
         }
+
         public async Task<IdentityResult> RegisterUserAsync(RegisterDTO model)
         {
             var user = _mapper.Map<User>(model);
@@ -32,21 +33,35 @@ namespace WheelSellTA.BLL.Services
             {
                 await _userManager.AddToRoleAsync(user, "Saler");
             }
-            
+
             return result;
         }
-        public async Task<string?> LoginUserAsync(LoginDTO model)
+
+        public async Task<string> LoginUserAsync(LoginDTO model)
         {
+            // Шаг 1: Ищем пользователя по Email
             var user = await _userManager.FindByEmailAsync(model.Email);
             
-            if (user == null || !await _userManager.CheckPasswordAsync(user, model.Password))
+            if (user == null)
             {
+                // Пользователь не найден, возвращаем null (для 401)
                 return null;
             }
+
+            // Шаг 2: Проверяем пароль. Это самая вероятная точка сбоя.
+            var passwordCheck = await _userManager.CheckPasswordAsync(user, model.Password);
+            
+            if (!passwordCheck)
+            {
+                // Неверный пароль, возвращаем null (для 401)
+                return null;
+            }
+
+            // Шаг 4: Если все проверки пройдены, генерируем и возвращаем токен.
             return await GenerateJwtToken(user);
         }
         
-        // ЛОГИКА ГЕНЕРАЦИИ JWT-ТОКЕНА (AI)
+        // Логика генерации JWT-токена
         private async Task<string> GenerateJwtToken(User user)
         {
             var claims = new List<Claim>
@@ -57,7 +72,6 @@ namespace WheelSellTA.BLL.Services
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
-            // Добавление ролей в Claims
             var userRoles = await _userManager.GetRolesAsync(user);
             foreach (var role in userRoles)
             {

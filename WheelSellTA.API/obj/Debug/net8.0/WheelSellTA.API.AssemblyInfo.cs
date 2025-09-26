@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheelSellTA.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8763bc8ec4e4010f13ff5703fd5bbbe503c0040f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheelSellTA.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheelSellTA.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

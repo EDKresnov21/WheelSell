@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdSORZusmmQ=",
+  "dgSpecHash": "LEJxk2Xa4VA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.API\\WheelSellTA.API.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.API\\WheelSellTA.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

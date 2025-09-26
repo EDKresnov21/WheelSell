@@ -10,3 +10,16 @@ C:\Users\Admin\RiderProjects\WheelSellTA\WheelSellTA.DAL\obj\Debug\net8.0\WheelS
 C:\Users\Admin\RiderProjects\WheelSellTA\WheelSellTA.DAL\obj\Debug\net8.0\refint\WheelSellTA.DAL.dll
 C:\Users\Admin\RiderProjects\WheelSellTA\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.pdb
 C:\Users\Admin\RiderProjects\WheelSellTA\WheelSellTA.DAL\obj\Debug\net8.0\ref\WheelSellTA.DAL.dll
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\bin\Debug\net8.0\WheelSellTA.DAL.deps.json
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\bin\Debug\net8.0\WheelSellTA.DAL.dll
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\bin\Debug\net8.0\WheelSellTA.DAL.pdb
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.sourcelink.json
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.dll
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\refint\WheelSellTA.DAL.dll
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\WheelSellTA.DAL.pdb
+C:\Users\Admin\RiderProjects\WheelSell\WheelSellTA.DAL\obj\Debug\net8.0\ref\WheelSellTA.DAL.dll

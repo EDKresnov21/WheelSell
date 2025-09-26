@@ -21,11 +21,12 @@ builder.Services.AddControllers();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("CorsPolicy", builder =>
+    options.AddPolicy("CorsPolicy", policy =>
     {
-        builder.AllowAnyOrigin()
+        policy.WithOrigins("http://localhost:3000") // ⬅️ Must be your specific frontend address
+            .AllowAnyHeader()
             .AllowAnyMethod()
-            .AllowAnyHeader();
+            .AllowCredentials(); // ⬅️ THIS IS CRUCIAL FOR COOKIES/AUTHENTICATION
     });
 });
 

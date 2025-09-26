@@ -3787,11 +3787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
       "projectName": "WheelSellTA.DAL",
-      "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
+      "projectPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\WheelSellTA.DAL.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.DAL\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

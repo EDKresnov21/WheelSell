@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "efKLo7Jjfpw=",
+  "dgSpecHash": "msHEfOCty+c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\WheelSellTA\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\WheelSell\\WheelSellTA.BLL\\WheelSellTA.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
