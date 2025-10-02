@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheelSellTA.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8763bc8ec4e4010f13ff5703fd5bbbe503c0040f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec96ebef4f8004f0130ab14ae75c2371120457d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheelSellTA.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheelSellTA.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

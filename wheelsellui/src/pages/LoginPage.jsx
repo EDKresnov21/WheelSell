@@ -43,7 +43,7 @@ const LoginPage = () => {
 
         try {
             // API Endpoint: POST /api/auth/login
-            const response = await apiClient.post('/auth/login', formData);
+            const response = await apiClient.post('/Auth/login', formData);
             
             // Assuming your ASP.NET Core API returns an object with a token (e.g., 'token' or 'jwtToken')
             // If your API sets an HttpOnly cookie, response.data might be empty, and the server handles session.
